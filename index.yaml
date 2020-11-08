@@ -3,7 +3,18 @@ entries:
   kubenav:
   - apiVersion: v2
     appVersion: 3.1.0
-    created: "2020-11-06T16:55:46.468597726Z"
+    created: "2020-11-08T15:33:42.594947764Z"
+    description: kubenav is the navigator for your Kubernetes clusters right in your
+      pocket.
+    digest: 564c4b864e1a2301fbcd718293b0d1357555f40f46a674d68786206ea1e9eb1d
+    name: kubenav
+    type: application
+    urls:
+    - https://kubenav.github.io/helm-repository/kubenav-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 3.1.0
+    created: "2020-11-08T15:33:42.594334164Z"
     description: kubenav is the navigator for your Kubernetes clusters right in your
       pocket.
     digest: 70c81a47053dc557ddb565180aee4d176fe5b064a3adb973da7a6647fcab8e16
@@ -14,7 +25,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-11-06T16:55:46.468025016Z"
+    created: "2020-11-08T15:33:42.593375765Z"
     description: kubenav is the navigator for your Kubernetes clusters right in your
       pocket.
     digest: 7b00c7c5db2598f01a05d09c7f6737d3c0cee881885220b8fb96c2a54ce6d766
@@ -25,7 +36,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 2.2.0
-    created: "2020-11-06T16:55:46.467442306Z"
+    created: "2020-11-08T15:33:42.592577966Z"
     description: kubenav is the navigator for your Kubernetes clusters right in your
       pocket.
     digest: 742dc706f30375cee7470682fbce862c092bf58feed5333f400ad11417d5a8b9
@@ -36,7 +47,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 2.2.0
-    created: "2020-11-06T16:55:46.466895397Z"
+    created: "2020-11-08T15:33:42.591442568Z"
     description: kubenav is the navigator for your Kubernetes clusters right in your
       pocket.
     digest: 5216542acf3c64a2950611f9c01ced82b52c20827e48ccdfb9a84a340cd85a8c
@@ -47,7 +58,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 2.2.0
-    created: "2020-11-06T16:55:46.466337187Z"
+    created: "2020-11-08T15:33:42.590856768Z"
     description: kubenav is the navigator for your Kubernetes clusters right in your
       pocket.
     digest: 3d402d1c82293533d3e724e74ad3f87bb456e12e416b3d451a13390dfb678535
@@ -56,4 +67,4 @@ entries:
     urls:
     - https://kubenav.github.io/helm-repository/kubenav-0.1.0.tgz
     version: 0.1.0
-generated: "2020-11-06T16:55:46.465582674Z"
+generated: "2020-11-08T15:33:42.590087869Z"
